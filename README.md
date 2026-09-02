@@ -94,17 +94,7 @@ Atualmente, estou constantemente aprimorando meus conhecimentos e desenvolvendo 
 
 # 🚀 Projetos em destaque
 
-<div align="center">
 
-<a href="https://github.com/BECKMAN700/Eng.Software-Controle-de-Estoque">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BECKMAN700&repo=Eng.Software-Controle-de-Estoque&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-de-Sistemas-2025-2&repo=Amigo-Fiel&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### 📦 Sistema de Controle de Estoque
 
@@ -124,9 +114,6 @@ Projeto desenvolvido para aplicação dos conhecimentos de desenvolvimento de si
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrascode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrascode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
