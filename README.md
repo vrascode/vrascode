@@ -186,7 +186,7 @@ Projeto desenvolvido para aplicação dos conhecimentos de desenvolvimento de si
 
 <div align="center">
 
-### 💜 "Transformando ideias em código e código em soluções."
+###  "Transformando ideias em software, desafios em soluções."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
