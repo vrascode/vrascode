@@ -27,7 +27,7 @@
 
 # 👨‍💻 Sobre mim
 
-Olá! Eu sou **Matheus Sulino da Silva Costa**, estudante de **Ciência da Computação** e desenvolvedor apaixonado por tecnologia, programação e desenvolvimento de soluções.
+Olá! Eu sou **Matheus Sulino da Silva Costa**, estudante de **Ciência da Computação** e desenvolvedor  entusiasta por tecnologia, programação e desenvolvimento de soluções.
 
 Tenho interesse principalmente em **desenvolvimento Full Stack**, criação de sistemas web, bancos de dados, desenvolvimento de APIs e resolução de problemas através da programação.
 
