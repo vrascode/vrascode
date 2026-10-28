@@ -33,6 +33,7 @@ Tenho interesse principalmente em **desenvolvimento Full Stack**, criação de s
 
 Atualmente, estou constantemente aprimorando meus conhecimentos e desenvolvendo projetos para transformar o conhecimento adquirido na faculdade em soluções práticas.
 
+
 ```text
 🎓 Ciência da Computação
 💻 Desenvolvedor Full Stack
@@ -92,9 +93,16 @@ Atualmente, estou constantemente aprimorando meus conhecimentos e desenvolvendo 
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projetos 
 
 
+### 🌐 vrascode.dev
+
+Meu portfólio pessoal bilíngue, desenvolvido com **Next.js, React e TypeScript**, para apresentar meus projetos, conhecimentos e experiência. Possui temas claro e escuro, filtros de projetos e versões em português e inglês.
+
+🌐 [Acessar meu site](https://vrascode.dev)
+
+🔗 [Ver projeto no GitHub](https://github.com/vrascode/vrascode.dev)
 
 ### 📦 Sistema de Controle de Estoque
 
@@ -104,9 +112,27 @@ Sistema desenvolvido para gerenciamento de estoque, trabalhando conceitos de **E
 
 ### 🐶 Amigo Fiel
 
-Projeto desenvolvido para aplicação dos conhecimentos de desenvolvimento de sistemas e desenvolvimento web.
+Projeto acadêmico colaborativo desenvolvido com **Django e PostgreSQL**, com implementação do modelo de produtos, aplicando conceitos de desenvolvimento web e modelagem de dados.
 
 🔗 [Ver projeto no GitHub](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel)
+
+### 💰 FinTrack Pro
+
+Aplicativo de finanças pessoais em desenvolvimento com **React Native, Expo, TypeScript e NestJS**, voltado à organização de contas, cartões e movimentações financeiras. Atualmente, conta com navegação e preferências de tema e privacidade implementadas.
+
+🔗 [Ver projeto no GitHub](https://github.com/vrascode/fintrack-pro)
+
+### 📊 ClearLedger
+
+Sistema de conciliação financeira desenvolvido com **FastAPI, SQLite e Next.js**, que compara pedidos, pagamentos e depósitos bancários para identificar divergências. Inclui importação de arquivos CSV, painel bilíngue e exportação de relatórios.
+
+🔗 [Ver projeto no GitHub](https://github.com/vrascode/clearledger)
+
+### ⌚ Vras Watches
+
+Projeto de loja virtual de relógios desenvolvido com **Django**, voltado à aplicação de conhecimentos de desenvolvimento web no contexto de comércio eletrônico.
+
+🔗 [Ver projeto no GitHub](https://github.com/vrascode/vras-watches)
 
 ---
 
